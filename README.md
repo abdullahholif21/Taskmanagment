@@ -14,7 +14,7 @@ This project is a **Task Management System** designed to help users organize, tr
 
 1. **Clone the Repository**:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/abdullahholif21/Taskmanagment
     ```
 2. **Set Up XAMPP**:
     - Download and install [XAMPP](https://www.apachefriends.org/index.html).
@@ -65,5 +65,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or feedback, please contact:
-- **Email**: [abdullahi.hoolif@golis.so]
+- **Email**: [abdullahholif21@gmail.com]
 - **GitHub**: [abdullahholif21]
